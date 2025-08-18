@@ -1,6 +1,6 @@
 import * as path from 'node:path';
 import { pluginSass } from '@rsbuild/plugin-sass';
-import { pluginSitemap } from '@rspress/plugin-sitemap';
+// import { pluginSitemap } from '@rspress/plugin-sitemap';
 import { pluginGoogleAnalytics } from 'rsbuild-plugin-google-analytics';
 import { defineConfig } from 'rspress/config';
 
@@ -59,9 +59,9 @@ export default defineConfig({
     },
   },
   plugins: [
-    pluginSitemap({
-      siteUrl,
-    }),
+    // pluginSitemap({
+    //   siteUrl,
+    // }),
   ],
   builderConfig: {
     plugins: [
