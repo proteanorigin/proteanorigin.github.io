@@ -3,7 +3,7 @@ pageType: home
 
 hero:
   name: Protean Origin
-  text: 易之四象，悟其本元。
+  text: 易之四象 悟其本元
   tagline: protean origin
   actions:
     - theme: brand

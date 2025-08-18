@@ -3,7 +3,7 @@ pageType: home
 
 hero:
   name: 　易象元
-  text: 易之四象，悟其本元。
+  text: 易之四象 悟其本元
   tagline: 
   actions:
     - theme: brand
