@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Contact Us",
+    "link": "/contact/",
+    "activeMatch": "/contact/"
+  },
+  {
+    "text": "API",
+    "link": "https://rspress.dev/api/index.html"
+  }
+]
