@@ -2,7 +2,7 @@
 pageType: home
 
 hero:
-  name: Junyu Art
+  name: Junyu Art Tea Gallery
   text: 峻宇茶画苑
   tagline: 
   actions:

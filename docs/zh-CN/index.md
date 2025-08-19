@@ -2,8 +2,8 @@
 pageType: home
 
 hero:
-  name: 　易象元
-  text: 易之四象 悟其本元
+  name: 峻宇茶画苑
+  text: Junyu Art Tea Gallery
   tagline: 
   actions:
     - theme: brand
