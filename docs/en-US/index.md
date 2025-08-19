@@ -2,7 +2,7 @@
 pageType: home
 
 hero:
-  name: Junyun Art
+  name: Junyu Art
   text: 峻宇茶画苑
   tagline: 
   actions:
