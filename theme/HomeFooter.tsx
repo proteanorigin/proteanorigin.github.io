@@ -7,8 +7,8 @@ export function HomeFooter() {
   const lang = useLang();
   console.log('HomeFooter', lang);
   const message = lang === 'zh-CN'
-    ? '© 2025 易象元 版权所有。'
-    : '© 2025 PROTEAN ORIGIN Inc.';
+    ? '© 2025 峻宇茶画苑 版权所有。'
+    : '© 2025 JUNYU ART Inc.';
   if (!message) {
     return null;
   }

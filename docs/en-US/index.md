@@ -2,9 +2,9 @@
 pageType: home
 
 hero:
-  name: Protean Origin
-  text: 易之四象 悟其本元
-  tagline: protean origin
+  name: Junyun Art
+  text: 峻宇茶画苑
+  tagline: 
   actions:
     - theme: brand
       text: CONTACT US
