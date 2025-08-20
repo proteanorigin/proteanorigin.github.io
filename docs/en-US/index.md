@@ -15,11 +15,11 @@ hero:
 features:
   - title: White tea (白茶)
     details: The description of white tea.
-    icon: /assets/white-tea/IMG_5354.JPG
+    icon: /assets/white-tea/IMG_5354.jpeg
     link: /tea/white-tea
   - title: Raw tea (生茶)
     details: The description of Raw tea.
-    icon: /assets/raw-tea/IMG_6019.JPG
+    icon: /assets/raw-tea/IMG_6019.jpeg
     link: /tea/raw-tea
   - title: Ripe pu-erh tea (熟茶)
     details: The description of ripe pu-erh tea.
@@ -31,10 +31,10 @@ features:
     link: /tea/dragon-ball
   - title: Yuan (元字饼)
     details: The description of Yuan tea.
-    icon: /assets/yuan/IMG_0734.JPG
+    icon: /assets/yuan/IMG_0734.jpeg
     link: /tea/yuan
   - title: Yi (易字饼)
     details: The description of Yi tea.
-    icon: /assets/yi/IMG_5806.JPG
+    icon: /assets/yi/IMG_5806.jpeg
     link: /tea/yi
 ---

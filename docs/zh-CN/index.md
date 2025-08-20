@@ -15,11 +15,11 @@ hero:
 features:
   - title: 白茶(White tea)
     details: 关于白茶的描述
-    icon: /assets/white-tea/IMG_5354.JPG
+    icon: /assets/white-tea/IMG_5354.jpeg
     link: /zh-CN/tea/white-tea
   - title: 生茶 (Raw tea)
     details: 关于生茶的描述
-    icon: /assets/raw-tea/IMG_6019.JPG
+    icon: /assets/raw-tea/IMG_6019.jpeg
     link: /zh-CN/tea/raw-tea
   - title: 熟茶 (Ripe pu-erh tea)
     details: 关于熟茶的描述
@@ -31,10 +31,10 @@ features:
     link: /zh-CN/tea/dragon-ball
   - title: 元字饼 (Yuan)
     details: 关于元字饼的描述
-    icon: /assets/yuan/IMG_0734.JPG
+    icon: /assets/yuan/IMG_0734.jpeg
     link: /zh-CN/tea/yuan
   - title: 易字饼 (Yi)
     details: 关于易字饼的描述
-    icon: /assets/yi/IMG_5806.JPG
+    icon: /assets/yi/IMG_5806.jpeg
     link: /zh-CN/tea/yi
 ---
